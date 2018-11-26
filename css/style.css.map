@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAK;EACH,UAAU,EAAE,4DAA4D;EACxE,SAAS,EAAE,IAAI;;ACFjB,OAAQ;EACN,MAAM,EAAE,IAAI;EACZ,QAAQ,EAAE,QAAQ;EAClB,gBAAgB,EAAE,IAAI;;ACHxB,WAAY;EACV,QAAQ,EAAE,QAAQ;;ACDpB,YAAa;EACX,MAAM,EAAE,KAAK;EACb,UAAU,EAAE,0CAA0C;;ACFxD,UAAW;EACT,SAAS,EAAE,MAAM;EACjB,MAAM,EAAE,MAAM;;ACDd,aAAQ;EACN,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,GAAG;EACnB,SAAS,EAAE,IAAI",
+"sources": ["../scss/base/_base.scss","../scss/components/_header.scss","../scss/components/_navigation.scss","../scss/components/_main-screen.scss","../scss/components/_container.scss","../scss/components/_skills.scss"],
+"names": [],
+"file": "style.css"
+}

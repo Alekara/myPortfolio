@@ -1,0 +1,33 @@
+body {
+  background: -webkit-gradient(linear, left top, right bottom, from(#141e30), to(#243b55)) no-repeat;
+  background: linear-gradient(to bottom right, #141e30, #243b55) no-repeat;
+  font-size: 22px; }
+
+.header {
+  height: 60px;
+  position: relative;
+  background-color: #000; }
+
+.navigation {
+  position: absolute; }
+
+.main-screen {
+  height: 100vh;
+  background: url(../img/bg.jpg) center center no-repeat; }
+
+.container {
+  max-width: 1920px;
+  margin: 0 auto; }
+
+.skills__list {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap; }
+
+/*# sourceMappingURL=style.css.map */
